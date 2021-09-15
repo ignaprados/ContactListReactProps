@@ -10,7 +10,7 @@ View: [CodeSandbox](https://codesandbox.io/s/contactlistreactprops-hsbij?file=/s
 https://hsbij.csb.app/
 
 ## Description
-Web made with React, to practice props. It takes the data from the object array and displays it in the app, using components.
+Web made with React, to practice props. It takes the data from the object array and displays it in the app, using the map method to show the data in the components.
  
  ## Installation
 
