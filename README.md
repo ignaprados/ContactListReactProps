@@ -8,6 +8,9 @@ Creator: [IgnacioPrados](https://github.com/IgnacioPrados)
 View: [CodeSandbox](https://codesandbox.io/s/contactlistreactprops-hsbij?file=/src/index.js)
 
 https://hsbij.csb.app/
+
+## Description
+Web made with React, to practice props. It takes the data from the object array and displays it in the app, using components.
  
  ## Installation
 
