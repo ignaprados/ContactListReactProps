@@ -4,6 +4,8 @@
 Practice Website about props in React
 <br><br>
 Creator: [IgnacioPrados](https://github.com/IgnacioPrados)
+
+View: [CodeSandbox](https://codesandbox.io/s/contactlistreactprops-hsbij?file=/src/index.js)
  
  ## Installation
 
