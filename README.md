@@ -14,7 +14,7 @@ Web made with React, to practice props. It takes the data from the object array 
  
  ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/) to install the Express server and Web App.
+Use the package manager [npm](https://www.npmjs.com/) to install the React Web App.
 
 ```bash
 npm install
