@@ -12,20 +12,19 @@ https://hsbij.csb.app/
 ## Description
 Web made with React, to practice props. It takes the data from the object array and displays it in the app, using the map method to show the data in the components.
  
- ## Installation
-
+## Installation
 Use the package manager [npm](https://www.npmjs.com/) to install the React Web App.
 
 ```bash
 npm install
 ```
- ## Run App
-Or you can use instead [npm](https://www.npmjs.com/)
- ```
- npm start
- ```
+## Run App
+You can use [npm](https://www.npmjs.com/).
+```
+npm start
+```
 
- ## Key Technologies used
+## Key Technologies used
 - HTML5
 - CSS3
 - JavaScript
